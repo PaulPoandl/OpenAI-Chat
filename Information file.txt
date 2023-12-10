@@ -1,0 +1,22 @@
+Help: OpenAI Chat
+1. How to Use the Program:
+- Enter your OpenAI API key in the 'API Key' field.
+- Adjust the 'Temperature' and 'Tokens' values (explained below).
+- Choose a model from the dropdown list.
+- Type your query in the input box.
+- Click 'Submit' to authenticate your API key.
+- Once authenticated, you can click 'Send' to receive responses.
+2. Tokens and Temperature:
+- Tokens: It controls the length of the response. Higher values generate longer responses. Example: 2000 or 2500
+- Temperature: It influences the randomness of the model's output. Higher values make the output more creative, but lower values make it more focused. Example: 1.0 or 1.5
+3. Performance Note:\n
+- This program is designed for educational purposes and may not match the capabilities of Chat GPT. It serves as an exploration of OpenAI's models.
+- The program does not remember past communication sessions. Each interaction is independent.
+- Note that the program may occasionally break or experience long loading times. Be patient if it takes time to respond.
+- Choosing the right model is crucial for getting accurate and relevant answers.
+4. Model Selection:
+- Choose from models like 'Ada 001,' 'Babbage 001,' 'Curie 001,' and versions of 'Davinci' (002, 003).
+- Each model has a different token limit. Refer to OpenAI's website for specific token limits for each model.
+5. API Key:
+- Get your API key from OpenAI. It's free initially, but costs may apply later.
+- Visit OpenAI's website (https://beta.openai.com/signup/) to obtain your API key.
