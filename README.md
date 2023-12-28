@@ -38,7 +38,5 @@ Contact: Paul.Poandl@gmail.com, bytegroovelabs@gmail.com
 Important Information for Users:
 
 Ownership Clarification: Please be aware that the artificial intelligence systems provided via OpenAI (https://openai.com) are proprietary products of OpenAI, Inc. and are not owned or controlled by our organization.
-
 Potential Costs: Users should note that the utilization of OpenAI's AI services may incur charges. We advise reviewing OpenAI's pricing structure for detailed information.
-
 Usage Guidelines: Prior to utilizing the program, it is imperative that users read and understand the introductory guide. This will ensure a comprehensive understanding of the program's capabilities and limitations.
