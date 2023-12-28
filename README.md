@@ -7,14 +7,19 @@ This Python program is a Tkinter-based GUI application that facilitates interact
 
 # Installation
 
-Click on one of the Links below to download the installation file, you can also choose the version you like:
+To download the program, select the version that suits your needs from the links below. Each version is compatible with Windows 11, Windows 10, Windows 8, and Windows 7. You have two options for downloading: either as an executable file (.exe) from Google Drive or as source code from GitHub.
 
-## Version 1.0
-For Windows 11/Windows 10/Windows 8/Windows 7:
+Please note, if you choose to download the source code, ensure that you have Python installed on your system, along with all the necessary modules required by the program. Additionally, you can convert the source code to an executable (.exe) file using PyInstaller.
 
-Dropbox: https://www.dropbox.com/scl/fi/sewf4abfljsd7r7ikdbq4/OpenAI-Chat-1.0-Installer.exe?rlkey=6okstqr9eefipe48d2agpu8cr&dl=0 (There will maybe pop up that the file will harm your laptop because it is an exe installer file, please then ignore it, if you unsure please contact me under Paul.Poandl@gmail.com)
+## Available Versions:
 
-# Follow us on Social Media
+#### Version 1.0
+- Dropbox (Executable file): [Download from Dropbox](https://www.dropbox.com/scl/fi/sewf4abfljsd7r7ikdbq4/OpenAI-Chat-1.0-Installer.exe?rlkey=6okstqr9eefipe48d2agpu8cr&dl=0)  
+  (Note: Your computer might warn you about the executable file. If you have concerns, feel free to reach out to me at Paul.Poandl@gmail.com)
+
+Remember, if you download the source code from GitHub, ensure you have the proper Python environment and necessary modules installed to run the program successfully.
+
+# Follow us on Social Media!
 
 Instagram: https://www.instagram.com/bytegroovelabs
 
@@ -30,8 +35,7 @@ Author: Paul Poandl
 
 Contact: Paul.Poandl@gmail.com, bytegroovelabs@gmail.com
 
-Note: OpenAI's AIs (https://openai.com) are not my AIs!
-Note: The AIs maybe cost something!
-Note: Read the introduction before you use the program!
-Note: Agree the license otherwise you are not allowed to use it!
-Note: The program maybe have some errors!
+Important Information for Users:
+Ownership Clarification: Please be aware that the artificial intelligence systems provided via OpenAI (https://openai.com) are proprietary products of OpenAI, Inc. and are not owned or controlled by our organization.
+Potential Costs: Users should note that the utilization of OpenAI's AI services may incur charges. We advise reviewing OpenAI's pricing structure for detailed information.
+Usage Guidelines: Prior to utilizing the program, it is imperative that users read and understand the introductory guide. This will ensure a comprehensive understanding of the program's capabilities and limitations.
